@@ -1,6 +1,6 @@
 const name = "Saheed Opeyemi Ibrahim";
 const age = 26;
-const favouriteLanguage = "Yoruba";
+const favouriteProgrammingLanguage = "JavaScript";
 console.log("Name:", name);
 console.log("Age:", age);
-console.log("Favourite Language:", favouriteLanguage);
+console.log("Favourite Programming Language:", favouriteProgrammingLanguage);
